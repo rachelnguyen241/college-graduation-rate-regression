@@ -1,0 +1,28 @@
+{\rtf1\fs24
+\pard\qc
+Regression Results: Dependent Variable is Six-Year Graduation Rate\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx9360\clbrdrt\brdrs\cellx13536\clbrdrt\brdrs\cellx17712
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx9360\cellx13536\cellx17712
+\ql \cell\qc Six-year graduation rate\cell\qc Six-year graduation rate\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx9360\cellx13536\cellx17712
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx9360\clbrdrb\brdrs\cellx13536\clbrdrb\brdrs\cellx17712
+\ql VARIABLES\cell\qc most recent cohort (percent)\cell\qc most recent cohort (percent)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx9360\cellx13536\cellx17712
+\ql \cell\qc \cell\qc \cell\row
+\ql Published in-state tuition and fees, 2024-25 academic year (USD)\cell\qc 0.000138**\cell\qc 0.000390\cell\row
+\ql \cell\qc (6.39e-05)\cell\qc (0.000310)\cell\row
+\ql Undergraduate enrollment, fall 2024 (headcount)\cell\qc \cell\qc -0.000620***\cell\row
+\ql \cell\qc \cell\qc (0.000157)\cell\row
+\ql =1 if private institution, =0 if public\cell\qc \cell\qc -30.99*\cell\row
+\ql \cell\qc \cell\qc (16.65)\cell\row
+\ql Constant\cell\qc 82.99***\cell\qc 102.2***\cell\row
+\ql \cell\qc (3.173)\cell\qc (7.902)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 25\cell\qc 25\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx9360\clbrdrb\brdrs\cellx13536\clbrdrb\brdrs\cellx17712
+\ql R-squared\cell\qc 0.169\cell\qc 0.548\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

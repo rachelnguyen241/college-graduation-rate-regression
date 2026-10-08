@@ -1,0 +1,17 @@
+{\rtf1\fs24
+\pard\qc
+Summary Statistics: College Dataset\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx9360\clbrdrt\brdrs\cellx9936\clbrdrt\brdrs\cellx10944\clbrdrt\brdrs\cellx11952\clbrdrt\brdrs\cellx12816\clbrdrt\brdrs\cellx13824
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx9360\cellx9936\cellx10944\cellx11952\cellx12816\cellx13824
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx9360\clbrdrb\brdrs\cellx9936\clbrdrb\brdrs\cellx10944\clbrdrb\brdrs\cellx11952\clbrdrb\brdrs\cellx12816\clbrdrb\brdrs\cellx13824
+\ql VARIABLES\cell\qc N\cell\qc mean\cell\qc sd\cell\qc min\cell\qc max\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx9360\cellx9936\cellx10944\cellx11952\cellx12816\cellx13824
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Published in-state tuition and fees, 2024-25 academic year (USD)\cell\qc 25\cell\qc 41,727\cell\qc 27,457\cell\qc 6,381\cell\qc 73,172\cell\row
+\ql Undergraduate enrollment, fall 2024 (headcount)\cell\qc 25\cell\qc 21,960\cell\qc 16,481\cell\qc 4,789\cell\qc 60,710\cell\row
+\ql Six-year graduation rate, most recent cohort (percent)\cell\qc 25\cell\qc 88.76\cell\qc 9.234\cell\qc 61\cell\qc 98\cell\row
+\ql =1 if private institution, =0 if public\cell\qc 25\cell\qc 0.520\cell\qc 0.510\cell\qc 0\cell\qc 1\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx9360\clbrdrb\brdrs\cellx9936\clbrdrb\brdrs\cellx10944\clbrdrb\brdrs\cellx11952\clbrdrb\brdrs\cellx12816\clbrdrb\brdrs\cellx13824
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+}
